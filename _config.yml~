@@ -1,5 +1,5 @@
 # Site settings
-
+<<<<<<< HEAD
 title: "Carte Noire"
 email: jacob@jacobtomlinson.co.uk
 description: "A dark blog theme for Jekyll."
@@ -27,6 +27,21 @@ facebook_link:
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+=======
+title: Centrarium
+subtitle: "A simple yet classy theme for your Jekyll website or blog"
+email: blcentra@gmail.com
+name: Ben Centra
+description: >
+  A simple yet classy theme for your Jekyll website or blog.
+# Base URL of site (i.e. /blog). It should always start with a slash,
+# and never end with a slash. Set it to a blank value if hosting at the
+# root of your server.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://nicogito.github.io/thuban/" # the base hostname & protocol for your site
+cover: "/assets/header_image.jpg"
+logo: "/assets/logo.png"
+>>>>>>> 71607899e158098f12784a9f3c34fe713261c40a
 
 # Build settings
 markdown: kramdown
